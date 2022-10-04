@@ -11,3 +11,8 @@
 - Being the absulote worst in Mister Murrey's class
 - Railfaning
 - Model traines
+
+ ## Typing
+ - J, f, and Space
+ -  u, R, and K
+ -  20 WPM
